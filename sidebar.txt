@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qxt:home|Door43 (qxt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qxt|d43-qxt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qxt/archive/master.zip|d43-qxt.zip]]
+
+**Recent Changes**
+{{changes>ns = qxt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qxt|Ethnologue data]]
+
